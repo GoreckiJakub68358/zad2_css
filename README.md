@@ -7,7 +7,7 @@
 ## 🔗 Linki
 
 - 📁 Repozytorium: [https://github.com/GoreckiJakub68358/zad2_css](https://github.com/GoreckiJakub68358/zad2_css)
-- 🌐 GitHub Pages: [link do strony, jeśli opublikowana]
+- 🌐 GitHub Pages: [https://goreckijakub68358.github.io/zad2_css](https://goreckijakub68358.github.io/zad2_css)
 
 ## 📋 Opis projektu
 
