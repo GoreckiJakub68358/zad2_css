@@ -1,4 +1,4 @@
-# CV – Jan Kowalski
+# CV – Jakub Górecki
 
 > **Zadanie 2:** Stylowanie CV (CSS)  
 > **Przedmiot:** Projektowanie multimedialnych stron internetowych  
